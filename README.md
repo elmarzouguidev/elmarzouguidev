@@ -1,4 +1,8 @@
-### Hi there Elmarzougui Abdelghafour was here ! 👋
+Hi there 👋 
+
+- 👨🏼‍💻 My name is Abdelghafour
+- ❤️ I love Tea and Coding
+- 📫 How to reach me: abdelgha4or@gmail.com
 
 <!--
 **elmarzouguidev/elmarzouguidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
